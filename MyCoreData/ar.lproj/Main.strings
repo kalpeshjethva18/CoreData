@@ -1,0 +1,18 @@
+
+/* Class = "UILabel"; text = "Label"; ObjectID = "0kr-iH-ISc"; */
+"0kr-iH-ISc.text" = "Label";
+
+/* Class = "UILabel"; text = "Label"; ObjectID = "6FD-u1-xPz"; */
+"6FD-u1-xPz.text" = "Label";
+
+/* Class = "UIViewController"; title = "secondViewcontroller"; ObjectID = "B2z-RC-6vi"; */
+"B2z-RC-6vi.title" = "secondViewcontroller";
+
+/* Class = "UIButton"; normalTitle = "Button"; ObjectID = "G70-s1-iLY"; */
+"G70-s1-iLY.normalTitle" = "Button";
+
+/* Class = "UINavigationItem"; title = "Viewcontroller"; ObjectID = "dME-he-O6A"; */
+"dME-he-O6A.title" = "Viewcontroller";
+
+/* Class = "UIButton"; normalTitle = "Back"; ObjectID = "ysm-cX-oxz"; */
+"ysm-cX-oxz.normalTitle" = "Back";
